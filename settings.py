@@ -105,6 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
+Region = 'Asia/Kathmandu'
 
 USE_I18N = True
 
